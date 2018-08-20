@@ -41,7 +41,7 @@ I am far from perfect, so there's probably a lot that I've missed or that could 
 
 ## Application screenshots
 
-![All movies](fastlane/metadata/android/en-US/images/phoneScreenshots/all_movies_screenshot.png)
+![All movies](fastlane/metadata/android/en-US/images/phoneScreenshots/screen1.png)
 ![Saved shows](fastlane/metadata/android/en-US/images/phoneScreenshots/saved_shows_screenshot.png)
 ![All people](fastlane/metadata/android/en-US/images/phoneScreenshots/all_people_screenshot.png)
 ![Detailed movie](fastlane/metadata/android/en-US/images/phoneScreenshots/detailed_movie_screenshot.png)
