@@ -1,0 +1,58 @@
+<!--
+  ~ Copyright (c) 2018.
+  ~
+  ~ This file is part of MovieDB.
+  ~
+  ~ MovieDB is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ MovieDB is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with MovieDB.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.danish.task.movies.activity.fragment.ShowFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/showRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorLightGrey"
+        android:clipToPadding="false"
+        android:padding="8dip"
+        android:visibility="gone"
+        android:scrollbars="none"
+        />
+    <com.yarolegovich.discretescrollview.DiscreteScrollView
+        android:id="@+id/picker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:dsv_orientation="horizontal" />
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/castImage"
+        android:text="Buy Now"
+        android:textColor="@color/colorWhite"
+        android:background="@drawable/button"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="right"
+        android:layout_marginRight="30dp"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+</LinearLayout>

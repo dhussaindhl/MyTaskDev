@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2018.
+  ~
+  ~ This file is part of MovieDB.
+  ~
+  ~ MovieDB is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ MovieDB is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with MovieDB.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+    <!-- Default colors -->
+    <color name="colorPrimary">#D2d2d2</color>
+    <color name="colorPrimaryDark">#D2d2d2</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Custom colors -->
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTransparentWhite">#EFFF</color> <!-- Slight opacity -->
+    <color name="colorLightGrey">#F5F5F5</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorYellow">#ffff00</color>
+    <color name="colorGreen">#009900</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorBlue">#343CE2</color>
+    <color name="colorPurple">#A527A3</color>
+
+</resources>

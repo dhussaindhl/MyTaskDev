@@ -1,0 +1,6 @@
+Movie DB allows you to search through movies and series and save them in a local database.
+In the local database you can keep track of the shows (= movies and series) in multiple ways, like giving it a status (plan to watch, watched, dropped, etc.), rating the show, keeping track of episodes and adding the dates when you started and finished watching the show. 
+
+Furthermore, it is possible to view what shows are popular now or which ones have the best rating. Searching and filtering (on genres or dates for example) is also possible. Information about the shows include cast, crew and similar shows. Last but not least, it is also possible to see what actors (or crew members) are popular right now and searching for an actor in order to see in what shows the actor has played or has been part of the crew.
+
+The shows are requested from [https://themoviedb.org]. The database itself is local, however show data is also requested from [https://themoviedb.org].

@@ -1,0 +1,1 @@
+Search through movies and series and save them in a local offline database.
