@@ -1,6 +1,6 @@
 # MovieDB
 
-MovieDB is an offline movie database android application. The movies are requested from [themoviedb.org](https://www.themoviedb.org), the database (called 'saved' in the application) is offline.
+MyTaskDev movie api android application. The movies are requested from [themoviedb.org](https://www.themoviedb.org).
 
 
 **Get it on [F-Droid](https://f-droid.org/repository/browse/?fdid=org.notabug.lifeuser.moviedb)!**
